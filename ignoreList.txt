@@ -8,6 +8,7 @@
 [Ii]mages/
 [Ss]cenes/
 [Ff]onts/
+[Ss]ounds/
 
 Assets/AssetStoreTools*
 
