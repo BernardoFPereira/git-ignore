@@ -11,6 +11,7 @@ _[Ss]cenes/
 [Ss]ounds/
 [Pp]refabs/
 [Aa]nimations/
+[Ss]prites
 
 Assets/AssetStoreTools*
 
